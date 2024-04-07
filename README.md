@@ -10,8 +10,8 @@ Barmao Brian Kipchumba
 Movie Theater Ticketing
 
 # Description
- * This Movie Theater is a web application that allows users to purchase movie tickets from the theater.
- *Users can view movie details, such as the poster, title, runtime, showtime, and available tickets.  *They can also select a movie from the menu and update the movie details accordingly.
+ * This Movie Theater web application allows users to purchase movie tickets from the theater.
+ * Users can view movie details, such as the poster, title, runtime, showtime, and available tickets.  *They can also select a movie from the menu and update the movie details accordingly.
 
 # Project Setup
 
