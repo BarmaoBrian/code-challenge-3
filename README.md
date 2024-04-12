@@ -47,6 +47,15 @@ The project uses the following technologies:
 - JSON Server: Local server for serving the JSON data.
 
 
+# Deployment
+-The code has been successfully hosted on github and the server is running. -
+You can deploy the project directly by the below link ; 
+
+https://barmaobrian.github.io/code-challenge-3/
+
+
+
+
 # License
 
 The content of this site is licensed under the MIT license Copyright (c) 2024.
